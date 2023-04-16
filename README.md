@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Gökhan</h1>
 <h3 align="center">A passionate Full-Stack Developer From TURKEY</h3>
 
-- 🌱 I’m currently learning **Django, Pyhton**
+- 🌱 I’m currently learning **Javascript**
 
 - 📫 How to reach me **gokhan_byk@icloud.com**
 
