@@ -1,13 +1,12 @@
 <h1 align="center">Hi 👋, I'm Gökhan</h1>
 <h3 align="center">A passionate Full-Stack Developer From TURKEY</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gokhanbyk" alt="gokhanbyk" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/gokbyk" target="blank"><img src="https://img.shields.io/twitter/follow/gokbyk?logo=twitter&style=for-the-badge" alt="gokbyk" /></a> </p>
 
 - 🌱 I’m currently learning **Django, Pyhton**
 
 - 📫 How to reach me **gokhan_byk@icloud.com**
+  
+<p align="left"> <a href="https://twitter.com/gokbyk" target="blank"><img src="https://img.shields.io/twitter/follow/gokbyk?logo=twitter&style=for-the-badge" alt="gokbyk" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -29,3 +28,5 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gokhanbyk&show_icons=true&locale=en&layout=compact" alt="gokhanbyk" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gokhanbyk&" alt="gokhanbyk" /></p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gokhanbyk" alt="gokhanbyk" /></a> </p>
+
