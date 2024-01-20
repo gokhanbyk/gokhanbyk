@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Full-Stack Developer From TURKEY</h3>
 
 
-- 🌱 I’m currently learning **Django, Pyhton**
+- 🌱 I’m currently learning **React, JavaScript**
 
 - 📫 How to reach me **gokhan_byk@icloud.com**
   
